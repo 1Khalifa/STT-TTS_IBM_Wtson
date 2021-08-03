@@ -4,12 +4,12 @@ from ibm_watson import TextToSpeechV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
 # Text to Speech service credentials
-stt_api = 'uMfXxkvlhlwl2TQMy1nh0mPNSlGNbaX48TeXv2L9zQhs'
-stt_url = 'https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/1651485d-9eef-46e9-a5ca-9602e269908b'
+stt_api = 'YOUR_API_KEY'
+stt_url = 'YOUR_URL'
 
 # Speech to Text service credentials
-tts_api = 'TTrN2keHKeL4yVfTSeZJR8r7sA1Bg3wNZX83UlvpbZjA'
-tts_url = 'https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/5ed483aa-d547-4b98-96eb-59a0de11ca3c'
+tts_api = 'YOUR_API_KEY'
+tts_url = 'YOUR_URL'
 
 r = sr.Recognizer()
 speech = sr.Microphone()
