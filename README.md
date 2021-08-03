@@ -31,3 +31,13 @@ stt_url = 'YOUR_URL'
 tts_api = 'YOUR_API_KEY'
 tts_url = 'YOUR_URL'
 ```
+
+## Resources
+
+* [Speech Recognition – Speech To Text In Python Using Google API, Wit.AI, IBM, CMUSphinx](https://www.pragnakalp.com/speech-recognition-speech-to-text-python-using-google-api-wit-ai-ibm-cmusphinx/)
+* [Convert your speech to text in real-time using a microphone](https://towardsdatascience.com/convert-your-speech-to-text-using-python-1cf3eccfa922)
+* [IBM Cloud Docs](https://cloud.ibm.com/docs?tab=api-docs)
+
+
+
+
