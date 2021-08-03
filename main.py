@@ -3,11 +3,11 @@ from ibm_watson import SpeechToTextV1
 from ibm_watson import TextToSpeechV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
-# Text to Speech service credentials
+# Speech to Text service credentials
 stt_api = 'YOUR_API_KEY'
 stt_url = 'YOUR_URL'
 
-# Speech to Text service credentials
+# Text to Speech service credentials
 tts_api = 'YOUR_API_KEY'
 tts_url = 'YOUR_URL'
 
